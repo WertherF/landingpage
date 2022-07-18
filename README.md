@@ -1,2 +1,2 @@
-# landingpage
-Landing page study.
+# Landingpage
+Landing page study for personal projects.
